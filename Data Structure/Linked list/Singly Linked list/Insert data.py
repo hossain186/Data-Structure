@@ -98,3 +98,4 @@ node.insertAtEnd(1000)
 node.insertAfterNode(10000, node.head.next.next.next)
 node.display()
 
+
